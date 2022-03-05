@@ -1,0 +1,11 @@
+D:\Tel U\Semester 4\KPL\pratikum_kpl\modul2_1302204036\modul2_1302204036\bin\Debug\modul2_1302204036.exe.config
+D:\Tel U\Semester 4\KPL\pratikum_kpl\modul2_1302204036\modul2_1302204036\bin\Debug\modul2_1302204036.exe
+D:\Tel U\Semester 4\KPL\pratikum_kpl\modul2_1302204036\modul2_1302204036\bin\Debug\modul2_1302204036.pdb
+D:\Tel U\Semester 4\KPL\pratikum_kpl\modul2_1302204036\modul2_1302204036\obj\Debug\modul2_1302204036.csproj.AssemblyReference.cache
+D:\Tel U\Semester 4\KPL\pratikum_kpl\modul2_1302204036\modul2_1302204036\obj\Debug\modul2_1302204036.csproj.SuggestedBindingRedirects.cache
+D:\Tel U\Semester 4\KPL\pratikum_kpl\modul2_1302204036\modul2_1302204036\obj\Debug\modul2_1302204036.Form1.resources
+D:\Tel U\Semester 4\KPL\pratikum_kpl\modul2_1302204036\modul2_1302204036\obj\Debug\modul2_1302204036.Properties.Resources.resources
+D:\Tel U\Semester 4\KPL\pratikum_kpl\modul2_1302204036\modul2_1302204036\obj\Debug\modul2_1302204036.csproj.GenerateResource.cache
+D:\Tel U\Semester 4\KPL\pratikum_kpl\modul2_1302204036\modul2_1302204036\obj\Debug\modul2_1302204036.csproj.CoreCompileInputs.cache
+D:\Tel U\Semester 4\KPL\pratikum_kpl\modul2_1302204036\modul2_1302204036\obj\Debug\modul2_1302204036.exe
+D:\Tel U\Semester 4\KPL\pratikum_kpl\modul2_1302204036\modul2_1302204036\obj\Debug\modul2_1302204036.pdb
