@@ -1,1 +1,1 @@
-# pratiku-kpl
+# pratikum-kpl
